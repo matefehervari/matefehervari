@@ -2,8 +2,9 @@
 <!-- ![endoxide's GitHub stats](https://github-readme-stats.vercel.app/api?username=endergamerplasma&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endergamerplasma&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=endergamerplasma&show_icons=true&theme=tokyonight">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endergamerplasma&layout=compact">
+<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=endergamerplasma&show_icons=true&theme=tokyonight">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endergamerplasma&layout=compact">
+
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
