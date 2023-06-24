@@ -1,7 +1,7 @@
 # Hi there 👋
 
-<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=endergamerplasma&show_icons=true&theme=tokyonight">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endergamerplasma&layout=compact">
+<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=matefehervari&show_icons=true&theme=tokyonight">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matefehervari&layout=compact">
 
 <br>
 
